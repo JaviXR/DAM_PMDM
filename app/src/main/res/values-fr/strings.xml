@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_spanish">Espagnol</string>
+    <string name="language_english">Anglais</string>
+    <string name="language_german">Allemand</string>
+    <string name="language_french">Français</string>
+    <string name="error_timeout">Délai de réponse du serveur.</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_login">Activité de Connexion</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Connexion ou Inscription</string>
+    <string name="action_sign_in_short">S\'identifier</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="invalid_username">Nom d\'utilisateur non valide</string>
+    <string name="invalid_password">Le mot de passe doit contenir plus de 5 caractères</string>
+    <string name="login_failed">échec de la connexion</string>
+    <string name="login_usuario">Utilisateur</string>
+    <string name="login_password">Mot de passe</string>
+    <string name="login_boton_login">Connexion</string>
+    <string name="menu_dashboard">Tableau de bord</string>
+    <string name="menu_clientes">Clients</string>
+    <string name="menu_facturas">Factures</string>
+    <string name="menu_idioma">Langue</string>
+    <string name="menu_salir">Sortie</string>
+    <string name="usuario">Utilisateur</string>
+    <string name="detalle_factura_1">QTÉ</string>
+    <string name="detalle_factura_2">PRODUIT</string>
+    <string name="detalle_factura_3">PRIX</string>
+    <string name="adapter_facturas_total">Total</string>
+    <string name="detalle_factura_title">Détails de paiement</string>
+    <string name="cliente">Client:</string>
+    <string name="total_factura">Total:</string>
+    <string name="msg_welcome">BIENVENU:</string>
+    <string name="error_login">Mauvais utilisateur/passe.</string>
+    <string name="error_preferences">Erreur lors du chargement des préférences de l\'application.</string>
+    <string name="cliente_add">Ajouter un Client</string>
+</resources>

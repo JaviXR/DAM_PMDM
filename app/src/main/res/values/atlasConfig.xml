@@ -1,0 +1,6 @@
+<resources>
+    <string name="realm_app_id" translatable="false">facturasv2-iqekb</string>
+    <string name="realm_app_url" translatable="false">https://realm.mongodb.com/groups/63c18689eeaf997154592cd8/apps/63f3f3e1767a21ccbf43130d</string>
+    <string name="realm_base_url" translatable="false">https://realm.mongodb.com</string>
+    <string name="realm_data_source_name" translatable="false">mongodb-atlas</string>
+</resources>

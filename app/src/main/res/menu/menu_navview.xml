@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/menu_dashboard"
+            android:icon="@drawable/dashboard"
+            android:title="@string/menu_dashboard"/>
+        <item
+            android:id="@+id/menu_clientes"
+            android:icon="@drawable/client"
+            android:title="@string/menu_clientes" />
+        <item
+            android:id="@+id/menu_facturas"
+            android:icon="@drawable/invoice"
+            android:title="@string/menu_facturas"/>
+        <item
+            android:id="@+id/menu_idioma"
+            android:icon="@drawable/language"
+            android:title="@string/menu_idioma"/>
+        <item
+            android:id="@+id/menu_salir"
+            android:icon="@drawable/exit"
+            android:title="@string/menu_salir"/>
+    </group>
+</menu>

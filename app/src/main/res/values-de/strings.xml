@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_spanish">Spanisch</string>
+    <string name="language_english">Englisch</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_french">Französisch</string>
+    <string name="error_timeout">Zeitüberschreitung für die Serverantwort.</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_login">Anmeldeaktivität</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in">Einloggen oder Registrieren</string>
+    <string name="action_sign_in_short">anmelden</string>
+    <string name="welcome">Willkommen !</string>
+    <string name="invalid_username">Kein gültiger Benutzername</string>
+    <string name="invalid_password">Das Passwort muss >5 Zeichen lang sein</string>
+    <string name="login_failed">Fehler bei der Anmeldung</string>
+    <string name="login_usuario">Benutzer</string>
+    <string name="login_password">Passwort</string>
+    <string name="login_boton_login">Anmeldung</string>
+    <string name="menu_dashboard">Armaturenbrett</string>
+    <string name="menu_clientes">Kunden</string>
+    <string name="menu_facturas">Rechnungen</string>
+    <string name="menu_idioma">Sprache</string>
+    <string name="menu_salir">Ausfahrt</string>
+    <string name="usuario">Benutzer</string>
+    <string name="detalle_factura_1">MENGE</string>
+    <string name="detalle_factura_2">PRODUKT</string>
+    <string name="detalle_factura_3">PREIS</string>
+    <string name="adapter_facturas_total">Gesamt</string>
+    <string name="detalle_factura_title">Zahlungsdetails</string>
+    <string name="cliente">Klient:</string>
+    <string name="total_factura">Gesamt:</string>
+    <string name="msg_welcome">WILLKOMMEN:</string>
+    <string name="error_login">Falscher Benutzer/Pass.</string>
+    <string name="error_preferences">Fehler beim Laden der App-Einstellungen.</string>
+    <string name="cliente_add">Kunde Hinzufügen</string>
+</resources>

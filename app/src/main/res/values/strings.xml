@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings de configuración-->
+    <string name="props_mode" translatable="false" />
+    <string name="props_current_lang" translatable="false" />
+    <string name="props_realm_id" translatable="false" />>
+
+    <!-- Strings de Idiomas-->
+    <string name="language_spanish">Español</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_german" >Alemán</string>
+    <string name="language_french" >Francés</string>
+
+    <!-- Strings de uso general -->
+    <string name="app_name" translatable="false">Facturasv2</string>
+    <string name="msg_welcome">BIENVENIDO: </string>
+    <string name="error_login">Usuario y/o contraseña erróneos.</string>
+    <string name="error_timeout">Tiempo de espera agotado.</string>
+    <string name="error_preferences">Error al cargar las preferencias de la app.</string>
+
+    <!-- Strings usados en activity_login-->
+
+    <!-- Strings usados en menús -->
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_dashboard">Inicio</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_facturas">Facturas</string>
+    <string name="menu_idioma">Idioma</string>
+    <string name="menu_salir">Salir</string>
+    <string name="detalle_factura_title">Detalle Factura</string>
+    <string name="detalle_factura" translatable="false">ID:</string>
+    <string name="cliente">Cliente:</string>
+    <string name="total_factura">Total:</string>
+    <string name="adapter_facturas_total">Total</string>
+    <string name="detalle_factura_1">CANT.</string>
+    <string name="detalle_factura_2">PRODUCTO</string>
+    <string name="detalle_factura_3">PRECIO</string>
+
+    <!-- Strings usados para -->
+    <string name="title_activity_login">Actividad de Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Sign in o registrarse</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"¡Bienvenido!"</string>
+    <string name="invalid_username">Nombre de usuario inválido</string>
+    <string name="invalid_password">La contraseña debe tener más de 5 carácteres</string>
+    <string name="login_failed">"Autenticación fallida"</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_boton_login">Iniciar Sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="navigation_drawer_open" translatable="false">drawer_open</string>
+    <string name="navigation_drawer_close" translatable="false">drawer_close</string>
+    <string name="cliente_add">Añadir cliente</string>
+
+</resources>
